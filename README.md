@@ -1,2 +1,2 @@
-ashokzamwar85.github.io
+ashokzamwar.github.io
 =======================
